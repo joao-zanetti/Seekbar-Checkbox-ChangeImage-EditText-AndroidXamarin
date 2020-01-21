@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SeekbarSpinnerCheck</string>
+    <string name="action_settings">Settings</string>
+
+  <string-array name="array_spinner">
+    <item>Metric</item>
+    <item>Imperial</item>
+  </string-array>
+</resources>
